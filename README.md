@@ -73,10 +73,10 @@ Note: If the program detects that the results of a particular stage under certai
 
 ## 📄 Related Paper
 
-This code is associated with the following paper, accepted to appear at ISEDA 2025:
+This code is associated with the following paper:
 
 **DieRouter+: Enhancing Die-Level Routing with SOCP and Scheduler-Driven DP**  
 *Qifu Hu*, *Ruyang Li*  
 Accepted to the **International Symposium on Electronic Design Automation (ISEDA) 2025**
 
-> 📌 The paper has been accepted and will be published in the ISEDA 2025 proceedings.
+> 📌 The paper will be published in the ISEDA 2025 proceedings.
