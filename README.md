@@ -69,3 +69,14 @@ A typical experiment run of DieRouter+ produces the following structure:
 - testcase1/run_1/run_2/run_3/run_4: stores the final legalized solution based on run_3.
 
 Note: If the program detects that the results of a particular stage under certain hyperparameters already exist, it will automatically reuse the existing directory and proceed to the next stage, avoiding redundant computation. The token parameter in our implementation is used to distinguish different stages and hyperparameter settings.
+
+
+## 📄 Related Paper
+
+This code is associated with the following paper, accepted to appear at ISEDA 2025:
+
+**DieRouter+: Enhancing Die-Level Routing with SOCP and Scheduler-Driven DP**  
+*Qifu Hu*, *Ruyang Li*  
+Accepted to the **International Symposium on Electronic Design Automation (ISEDA) 2025**
+
+> 📌 The paper has been accepted and will be published in the ISEDA 2025 proceedings.
